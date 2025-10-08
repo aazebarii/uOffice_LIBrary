@@ -11,6 +11,10 @@ These are the software LIBraries used in uOffice:
 
 - [:octocat: `uOffice SpellCheck`](https://github.com/seanpm2001/uOffice_SpellCheck/)
 
+## Version Control
+
+- [:octocat: `uOffice LIBrary DVCS`](https://github.com/seanpm2001/uOffice_LIBrary_DVCS/)
+
 ## For specific document formats
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the title section</b></p></summary>
@@ -219,12 +223,12 @@ Below is a listing of uOffice document support LIBraries.
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2024, Monday, October 6th at 10:57 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,329` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `03,194` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `024,678` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `021,208` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `024,714` <!-- TODO: This line should be updated daily !-->
+- **File version:** `2 (2024, Tuesday, October 7th at 09:12 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,351` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `03,286` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `025,300` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `021,735` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `025,536` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -263,7 +267,7 @@ Below is a listing of uOffice document support LIBraries.
 - [x] Added the `Title` section
 - [x] Added the `Spell checking` section
 - [x] Added the `Individual file formats` section
-- [x] Added the `MIMETYPER definitions formats` section
+- [x] Added the `MIMETYPE definitions formats` section
 - [x] Added the `File info` section
 - [x] Added the `File history` section
 - - [x] Added an entry for version 1
@@ -271,6 +275,24 @@ Below is a listing of uOffice document support LIBraries.
 - [ ] No other changes in version 1
 
 </details> <!-- End of V1 !-->
+
+---
+
+### Version 2 (2025, Tuesday, October 7th at 09:12 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
+
+> **This version was created by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added the `Version control` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+</details> <!-- End of V2 !-->
 
 ---
 
